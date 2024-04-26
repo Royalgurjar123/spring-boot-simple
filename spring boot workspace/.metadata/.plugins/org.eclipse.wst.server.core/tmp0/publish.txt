@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Apr 05 15:09:17 IST 2024
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\hp\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\9.0.14\\tomcat-embed-websocket-9.0.14.jar=WEB-INF/lib/tomcat-embed-websocket-9.0.14.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\hp\\.m2\\repository\\org\\springframework\\spring-web\\5.1.4.RELEASE\\spring-web-5.1.4.RELEASE.jar=WEB-INF/lib/spring-web-5.1.4.RELEASE.jar
